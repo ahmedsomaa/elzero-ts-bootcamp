@@ -6,5 +6,5 @@ A repo for the solutions for [Elzero's TypeScript Bootcamp](https://elzero.org/s
 
 - [x] Week 1
 - [x] Week 2
-- [ ] Week 3
+- [x] Week 3
 - [ ] Week 4
