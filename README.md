@@ -1,6 +1,6 @@
 # TypeScript Bootcamp Assignments Solution
 
-A repo for the solutions for [Elzero's TypeScript Bootcamp](https://elzero.org/study/typescript-study-plan/) challenges and assignemnts.
+A repo for the solutions of [Elzero's TypeScript Bootcamp](https://elzero.org/study/typescript-study-plan/) challenges and assignemnts.
 
 ## Solutions
 
